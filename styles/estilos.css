@@ -127,7 +127,7 @@ ul, li, ol {
 button:focus {
   outline: none; }
 
-.form-control::-moz-placeholder {
+.form-control:-moz-placeholder {
   color: #027542;
   opacity: 1; }
 
@@ -367,7 +367,7 @@ button:focus {
   right: 0;
   height: 100%;
   background: rgba(207, 166, 113, 0.9);
-  padding: 12px 12px;
+  padding: 10px 10px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease; }
 
@@ -382,9 +382,9 @@ button:focus {
   font-size: 13px;
   border-bottom: 1px dashed #010101;
   margin: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
   margin-top: 0px;
-  margin-bottom: 15px; }
+  margin-bottom: 20px; }
 
 .why-text h5 {
   font-size: 18px;
